@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi I'm Hadia Khokhar 👋
 
-<!--
-**HadiaKhokhar/HadiaKhokhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Web and App Developer | Lifelong Learner | Code Enthusiast
 
-Here are some ideas to get you started:
+💻 Currently diving into the world of web and app development, honing my skills one line of code at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about crafting beautiful and functional digital experiences that make an impact.
+
+🔧 Proficient in HTML, CSS, and JavaScript, and eager to explore frameworks like React and Vue.js.
+
+📚 Always seeking to expand my knowledge and stay ahead in the ever-evolving tech landscape.
+
+🎓 Studying Web and App Development, aiming to build a solid foundation in software development.
+
+🌍 Based in Karachi, ready to collaborate on exciting projects and learn from fellow developers.
+
+📫 Let's connect: <link></link> | [Your Email Address]

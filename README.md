@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hadiakhokhar" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadia khokhar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23451197/hadiakhokhar" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hadiakhokhar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@hadiaakhokhar" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hadiaakhokhar" height="30" width="40" /></a>
-<a href="https://medium.com/@hadiakhokhar" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hadia khokhar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hadiakhokhar" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadiakhokhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hadiakhokhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadia khokhar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23451197/hadiakhokhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hadiakhokhar" height="30" width="40" /></a>
+<a href="https://hashnode.com/@hadiaakhokhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hadiaakhokhar" height="30" width="40" /></a>
+<a href="https://medium.com/@hadiakhokhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hadia khokhar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hadiakhokhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadiakhokhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

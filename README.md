@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **workwithhadiaa@outlook.com**
 
-- ⚡ Fun fact **People Say I look like Gigi Hadid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

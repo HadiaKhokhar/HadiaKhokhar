@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hadia Khokhar</h1>
 <h3 align="center">An Aspiring Web and Mobile App Developer</h3>
-<p align="center"><img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="hadiakhokhar" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="hadiakhokhar" /> </p>
+
+<p> 
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="hadiakhokhar" width="450px" align="right"/>
+  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="hadiakhokhar" /> </p>
 
 - 🌱 I’m currently learning **Front End Development**
 
@@ -22,6 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiakhokhar&show_icons=true&locale=en" alt="hadiakhokhar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiakhokhar&theme=vue-dark&show_icons=true&locale=en" alt="hadiakhokhar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiakhokhar&" alt="hadiakhokhar" /></p>

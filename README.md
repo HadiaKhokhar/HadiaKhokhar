@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hadia Khokhar</h1>
-<h3 align="center">An Aspiring Web and Mobile App Developer from Pakistanan</h3>
-
+<h3 align="center">An Aspiring Web and Mobile App Developer</h3>
+<p align="center"><img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="hadiakhokhar" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="hadiakhokhar" /> </p>
 
 - 🌱 I’m currently learning **Front End Development**

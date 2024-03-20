@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiakhokhar&show_icons=true&locale=en&bg_color=222831&icon_color=7BC74D&ring_color=7BC74D&text_color=939393&title_color=EEEEEE" alt="hadiakhokhar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiakhokhar&background=222831&ring=7BC74D&fire=7BC74D&currStreakLabel=7BC74D&sideLabels=EEEEEE&sideNums=EEEEEE&currStreakNum=EEEEEE&dates=939393" alt="hadiakhokhar" /></p>
+
+<p>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiakhokhar&layout=donut-vertical&bg_color=222831&text_color=EEEEEE&title_color=EEEEEE">
+</p>

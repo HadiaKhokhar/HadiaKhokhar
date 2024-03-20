@@ -3,7 +3,7 @@
 
 <p> 
   <img src="Images/Hadia Khokahar,Mern Stack Developer.gif" alt="hadiakhokhar" width ="450px" align="right"/>
-  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="hadiakhokhar" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20Views&color=7BC74D&style=for-the-badge&abbreviated=true&" alt="hadiakhokhar" /> </p>
 
 - 🌱 I’m currently learning **Front End Development**
 

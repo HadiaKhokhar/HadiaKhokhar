@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Web and Mobile App Developer</h3>
 
 <p> 
-  <img src="Images/c7589a5f292b08f1123ce3dcb04d9e6a.gif" alt="hadiakhokhar" height ="450px" width ="450px" align="right"/>
+  <img src="Images/Hadia Khokahar,Mern Stack Developer-.gif" alt="hadiakhokhar" height ="450px" width ="450px" align="right"/>
   <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="hadiakhokhar" /> </p>
 
 - 🌱 I’m currently learning **Front End Development**

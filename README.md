@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&center=true&vCenter=true&color=7BC74D&background=22283192&random=false&width=500&lines=Hello+World+!+I'm+Hadia+Khokhar;I'm+Aspiring+Web+and+Mobile+App+Developer+" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&center=true&vCenter=true&color=7BC74D&background=22283192&random=false&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Hadia+Khokhar;I'm+Aspiring+Web+and+Mobile+App+Developer+" alt="Typing SVG" /></a>
 </h1>
 <p> 
   <img src="Images/Hadia Khokahar,Mern Stack Developer.gif" alt="hadiakhokhar" width ="450px" height ="450px" align="right"/>

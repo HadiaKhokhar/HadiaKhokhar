@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" >
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&center=true&vCenter=true&color=7BC74D&background=22283192&random=false&width=1100&lines=Hi+%F0%9F%91%8B%2C+I'm+Hadia+Khokhar;I'm+Aspiring+MERN+Stack+Developer+" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&center=true&vCenter=true&color=7BC74D&background=222831&random=false&width=1100&lines=Hi+%F0%9F%91%8B%2C+I'm+Hadia+Khokhar;I'm+Aspiring+MERN+Stack+Developer+" alt="Typing SVG" /></a>
 </h1>
 <p> 
   <img src="Images/Hadia Khokahar,Mern Stack Developer.gif" alt="hadiakhokhar" width ="450px" align="right"/>
@@ -31,3 +31,4 @@
 <p>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiakhokhar&layout=donut-vertical&bg_color=222831&text_color=EEEEEE&title_color=EEEEEE">
 </p>
+![](https://hit.yhype.me/github/profile?user_id=135761381)

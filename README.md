@@ -31,4 +31,3 @@
 <p>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiakhokhar&layout=donut-vertical&bg_color=222831&text_color=EEEEEE&title_color=EEEEEE">
 </p>
-![](https://hit.yhype.me/github/profile?user_id=135761381)

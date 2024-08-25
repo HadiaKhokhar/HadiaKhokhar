@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,)](https://skillicons.dev" />
+  <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,)](https://skillicons.dev" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiakhokhar&show_icons=true&locale=en&bg_color=222831&icon_color=7BC74D&ring_color=7BC74D&text_color=939393&title_color=EEEEEE" alt="hadiakhokhar" /></p>

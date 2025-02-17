@@ -1,35 +1,91 @@
+<!--  PALESTINE BANNER -->
 <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" >
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&center=true&vCenter=true&color=7BC74D&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Hadia+Khokhar;I'm+Aspiring+MERN+Stack+Developer+" alt="Typing SVG" /></a>
-</h1>
-<p> 
-  <img src="Images/Hadia Khokahar,Mern Stack Developer.gif" alt="hadiakhokhar" width ="450px" align="right"/>
-  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20Views&color=7BC74D&style=for-the-badge&abbreviated=true&" alt="hadiakhokhar" /> </p>
 
-- 🌱 I’m currently learning **Front End Development**
+<!--  PALESTINE BANNER -->
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/8cCDMQvs/Linked-In-Samples-Banner.png"  />
+</div>
 
-- 💬 Ask me about **HTML,CSS and Javascript**
+###
+<!--  PROFILE VIEWS -->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20Views&color=7BC74D&style=for-the-badge&abbreviated=true&" alt="hadiakhokhar" />
+</div>
 
-- 📫 How to reach me **workwithhadiaa@outlook.com**
+###
+<!-- ABOUT ME SECTION -->
+<h2 align="center">ABOUT ME  👩🏻‍💻</h2>
 
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hadiakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadia khokhar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hadiakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hadiakhokhar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@hadiaakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hadiaakhokhar" height="30" width="40" /></a>
-<a href="https://medium.com/@hadia khokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hadia khokhar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hadiakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadiakhokhar" height="30" width="40" /></a>
-</p>
+<p align="left">I'm a Frontend Developer passionate about creating interactive and dynamic user experiences working towards becoming a MERN Stack Developer.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,)](https://skillicons.dev" />
-</p>
+###
+<!-- CURRENT FOCUS SECTION -->
+<h3 align="left">Current Focus:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiakhokhar&show_icons=true&locale=en&bg_color=222831&icon_color=7BC74D&ring_color=7BC74D&text_color=939393&title_color=EEEEEE" alt="hadiakhokhar" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiakhokhar&background=222831&ring=7BC74D&fire=7BC74D&currStreakLabel=7BC74D&sideLabels=EEEEEE&sideNums=EEEEEE&currStreakNum=EEEEEE&dates=939393" alt="hadiakhokhar" /></p>
+<p align="left">● 50 Days JavaScript Challenge – Improving my JS skills daily<br>● React & TypeScript – Expanding my frontend expertise<br>● Firebase & Supabase – Powering my projects<br><br>Open to collaborations & exciting projects. Let’s connect! 🤝</p>
 
-<p>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiakhokhar&layout=donut-vertical&bg_color=222831&text_color=EEEEEE&title_color=EEEEEE">
-</p>
+###
+<!-- LANGUAGES AND TOOLS SECTION -->
+<h2 align="left">LANGUAGES AND TOOLS ⚙️</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+<!-- LEARNING SECTION -->
+<h2 align="left">Currently Learning 🎯</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+<!-- SOCIAL MEDIA SECTION -->
+<h2 align="left">Connect with me on 🔗</h2>
+
+###
+
+<div align="left">
+  <a href="workwithhadiaa@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/HadiaKhokhar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  
+</div>
+
+###
+<!-- GITHUB STATS SECTION -->
+<h2 align="left">GitHub Statistics ⚡</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadiakhokhar&layout=compact&show_icons=true&locale=en&card_width=480&bg_color=222831&text_color=EEEEEE&title_color=EEEEEE">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadiakhokhar&show_icons=true&locale=en&bg_color=222831&icon_color=7BC74D&ring_color=7BC74D&text_color=939393&title_color=EEEEEE" alt="hadiakhokhar" />
+
+ 

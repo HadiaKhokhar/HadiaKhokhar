@@ -85,4 +85,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadiakhokhar&layout=compact&show_icons=true&locale=en&card_width=480&bg_color=222831&text_color=EEEEEE&title_color=EEEEEE">
   <img src="https://github-readme-stats.vercel.app/api?username=hadiakhokhar&show_icons=true&locale=en&bg_color=222831&icon_color=7BC74D&ring_color=7BC74D&text_color=939393&title_color=EEEEEE" alt="hadiakhokhar" />
 
+<img src="https://raw.githubusercontent.com/hadiakhokhar/hadiakhokhar/output/snake.svg" alt="Snake animation" />
+
  

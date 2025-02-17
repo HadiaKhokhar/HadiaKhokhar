@@ -14,7 +14,7 @@
 
 ###
 <!-- ABOUT ME SECTION -->
-<h2 align="center">ABOUT ME  👩🏻‍💻</h2>
+<h2 align="left">ABOUT ME  👩🏻‍💻</h2>
 
 ###
 

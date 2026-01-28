@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer passionate about creating interactive and dynamic user experiences working towards becoming a MERN Stack Developer.</p>
+<p align="left">I'm a Frontend Developer passionate about creating interactive and dynamic user experiences</p>
 
 ###
 <!-- CURRENT FOCUS SECTION -->

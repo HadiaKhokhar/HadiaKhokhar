@@ -1,15 +1,15 @@
 <!--  PALESTINE BANNER -->
 <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" >
 
-<!--  PALESTINE BANNER -->
+<!--  BANNER -->
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/8cCDMQvs/Linked-In-Samples-Banner.png"  />
+  <img  width="800" height="400" src="https://i.pinimg.com/originals/f6/b0/86/f6b086570a777f8263a23fef0003e1f6.gif"  />
 </div>
 
 ###
 <!--  PROFILE VIEWS -->
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20Views&color=7BC74D&style=for-the-badge&abbreviated=true&" alt="hadiakhokhar" />
+  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20Views&color=d00000&style=for-the-badge&abbreviated=true&" alt="hadiakhokhar" />
 </div>
 
 ###

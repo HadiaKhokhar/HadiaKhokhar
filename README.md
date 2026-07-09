@@ -9,7 +9,7 @@
 ###
 <!--  PROFILE VIEWS -->
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20Views&color=d00000&style=for-the-badge&abbreviated=true&" alt="hadiakhokhar" />
+  <img src="https://komarev.com/ghpvc/?username=hadiakhokhar&label=Profile%20Views&color=df413a&style=for-the-badge&abbreviated=true&" alt="hadiakhokhar" />
 </div>
 
 ###

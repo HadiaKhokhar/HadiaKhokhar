@@ -1,5 +1,5 @@
 <!--  PALESTINE BANNER -->
-<img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" >
+<!--<img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" >  -->
 
 <!--  BANNER -->
 <div align="center">
